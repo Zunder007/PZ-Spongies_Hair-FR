@@ -277,4 +277,8 @@ IGUI_FR = {
 	IGUI_Hair_F_ToukaG1 = "zNeMeChoisisPas",
 	IGUI_Hair_F_ToukaG4 = "zNeMeChoisisPas",
 	IGUI_Hair_F_ToukaStraightG4 = "zNeMeChoisisPas",
+
+	IGUI_Hair_F_GothG2 = "zNeMeChoisisPas",
+	IGUI_Hair_F_RedfieldG2 = "zNeMeChoisisPas",
+	IGUI_Hair_F_LoganG1 = "zNeMeChoisisPas",
 }
